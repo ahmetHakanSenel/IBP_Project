@@ -1,7 +1,0 @@
-@include('user.pages.header')
-@yield('biletal')
-@yield('myaccount')
-@yield('mytickets')
-@yield('messages')
-@yield('findticket')
-@include('user.pages.footer')
