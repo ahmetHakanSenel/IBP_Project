@@ -1,5 +1,5 @@
-#Ticket Web App
-[PROJE LİNKİ](https://www.youtube.com/watch?v=LV7pr3NmX5U)
+# Ticket Web App
+[VİDEO LİNKİ](https://www.youtube.com/watch?v=LV7pr3NmX5U)
 
 Web application for buying and selling bus tickets 
 
